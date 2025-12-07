@@ -1,0 +1,7 @@
+moviepy>=1.0.3
+numpy>=1.25
+imageio>=2.5
+imageio-ffmpeg>=0.2.0
+decorator>=4.0.2,<6.0
+python-dotenv>=0.10
+tqdm>=4.0
