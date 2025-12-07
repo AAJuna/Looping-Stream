@@ -9,8 +9,6 @@
 
 Cocok untuk content creator, editor video, developer automasi, atau pengguna umum.
 
----
-
 ## ✨ Fitur Utama
 
 ### 🔁 Extend / Loop Video
@@ -32,8 +30,6 @@ Cocok untuk content creator, editor video, developer automasi, atau pengguna umu
 - Parse durasi otomatis: `5h`, `30m`, `90s`, atau detik langsung  
 - Mode interaktif bila tidak menggunakan argumen  
 - Garbage collection dan cleanup otomatis  
-
----
 
 ## 📦 Persyaratan
 
